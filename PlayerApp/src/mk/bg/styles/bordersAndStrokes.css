@@ -1,0 +1,43 @@
+/* 
+    Created on : Dec 29, 2021, 8:48:33 PM
+    Author     : Marta
+*/
+
+.strokeWidth0{
+    -fx-stroke-width: 0;
+}
+
+.borderBlack{
+    -fx-border-color: #000000;
+}
+
+.borderTop2{
+    -fx-border-width: 2 0 0 0; 
+}
+
+.borderBottom2{
+    -fx-border-width: 0 0 2 0; 
+}
+
+.borderTopOpen{
+    -fx-border-width: 0 1 2 1; 
+}
+
+.borderBottomOpen{
+    -fx-border-width: 2 1 0 1; 
+}
+
+.strokeLightBlue3{
+    -fx-stroke: #00ffff;
+    -fx-stroke-width: 3;
+}
+
+.borderLightBlue3{
+    -fx-border-color: #00ffff;
+    -fx-border-width: 3 3 3 3;
+}
+
+.borderAndBackgroundRadius7{
+    -fx-border-radius: 7;
+    -fx-background-radius: 7;
+}

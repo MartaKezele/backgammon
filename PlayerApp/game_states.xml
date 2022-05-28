@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gameStates>
+    <gameState started="false">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="2" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips/>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips/>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips>
+                    <chip color="0xffffffff" id="4"/>
+                    <chip color="0xffffffff" id="5"/>
+                </chips>
+            </field>
+            <field id="21">
+                <chips>
+                    <chip color="0x000000ff" id="4"/>
+                    <chip color="0x000000ff" id="5"/>
+                </chips>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="6"/>
+                    <chip color="0xffffffff" id="7"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="6"/>
+                    <chip color="0x000000ff" id="7"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="2" visible="true"/>
+            <dice disabled="false" value="4" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips/>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips/>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="21">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                </chips>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="2" visible="true"/>
+            <dice disabled="true" value="4" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips/>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="21">
+                <chips>
+                    <chip color="0x000000ff" id="1"/>
+                </chips>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="true" value="2" visible="true"/>
+            <dice disabled="true" value="4" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips/>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="1"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="4" visible="true"/>
+            <dice disabled="false" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips/>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="true" value="4" visible="true"/>
+            <dice disabled="false" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="true" value="4" visible="true"/>
+            <dice disabled="true" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="1" visible="true"/>
+            <dice disabled="false" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="true" value="1" visible="true"/>
+            <dice disabled="false" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="true" value="1" visible="true"/>
+            <dice disabled="true" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="6" visible="true"/>
+            <dice disabled="false" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="false" value="6" visible="true"/>
+            <dice disabled="true" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                    <chip color="0xffffffff" id="0"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+    <gameState started="true">
+        <whitePlayer id="3" nickname="ccc"/>
+        <blackPlayer id="2" nickname="bbb"/>
+        <allDice>
+            <dice disabled="true" value="6" visible="true"/>
+            <dice disabled="true" value="5" visible="true"/>
+            <dice disabled="false" value="0" visible="false"/>
+            <dice disabled="false" value="0" visible="false"/>
+        </allDice>
+        <fields>
+            <whiteCenterField id="24">
+                <chips/>
+            </whiteCenterField>
+            <blackCenterField id="-1">
+                <chips/>
+            </blackCenterField>
+            <whiteEndField id="-1">
+                <chips>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                    <chip color="0xffffffff" id="0"/>
+                    <chip color="0xffffffff" id="1"/>
+                </chips>
+            </whiteEndField>
+            <blackEndField id="24">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                    <chip color="0x000000ff" id="1"/>
+                    <chip color="0x000000ff" id="2"/>
+                </chips>
+            </blackEndField>
+            <field id="11">
+                <chips/>
+            </field>
+            <field id="12">
+                <chips/>
+            </field>
+            <field id="10">
+                <chips/>
+            </field>
+            <field id="13">
+                <chips/>
+            </field>
+            <field id="9">
+                <chips/>
+            </field>
+            <field id="14">
+                <chips/>
+            </field>
+            <field id="8">
+                <chips/>
+            </field>
+            <field id="15">
+                <chips/>
+            </field>
+            <field id="7">
+                <chips/>
+            </field>
+            <field id="16">
+                <chips/>
+            </field>
+            <field id="6">
+                <chips/>
+            </field>
+            <field id="17">
+                <chips/>
+            </field>
+            <field id="5">
+                <chips/>
+            </field>
+            <field id="18">
+                <chips/>
+            </field>
+            <field id="4">
+                <chips/>
+            </field>
+            <field id="19">
+                <chips/>
+            </field>
+            <field id="3">
+                <chips/>
+            </field>
+            <field id="20">
+                <chips/>
+            </field>
+            <field id="2">
+                <chips/>
+            </field>
+            <field id="21">
+                <chips/>
+            </field>
+            <field id="1">
+                <chips/>
+            </field>
+            <field id="22">
+                <chips/>
+            </field>
+            <field id="0">
+                <chips/>
+            </field>
+            <field id="23">
+                <chips>
+                    <chip color="0x000000ff" id="0"/>
+                </chips>
+            </field>
+        </fields>
+    </gameState>
+</gameStates>

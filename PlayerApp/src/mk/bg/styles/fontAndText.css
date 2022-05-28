@@ -1,0 +1,29 @@
+/* 
+    Created on : Dec 29, 2021, 8:48:58 PM
+    Author     : Marta
+*/
+
+.textAlignmentCenter{
+    -fx-text-alignment: center;
+}
+
+
+.fontBold{
+    -fx-font-weight: bold;
+}
+
+.fontSize30{
+    -fx-font-size: 30px;
+}
+
+.textColorWhite{
+    -fx-text-fill: #ffffff;
+}
+
+.textColorBlack{
+    -fx-text-fill: #000000;
+}
+
+.wrapText{
+    -fx-wrap-text: true;
+}

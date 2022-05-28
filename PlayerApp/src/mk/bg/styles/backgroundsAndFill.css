@@ -1,0 +1,36 @@
+/* 
+    Created on : Dec 29, 2021, 8:48:08 PM
+    Author     : Marta
+*/
+
+.fillBlack{
+    -fx-fill: #000000;
+}
+
+.fillWhite{
+    -fx-fill: #ffffff;
+}
+
+.bgLightBrown{
+    -fx-background-color: #cc6600;
+}
+
+.bgDarkBrown{
+    -fx-background-color: #994c00;
+}
+
+.bgDarkerBrown{
+    -fx-background-color: #663300;
+}
+
+.bgGreen{
+    -fx-background-color: #007700;
+}
+
+.bgBlack{
+    -fx-background-color: #000000;
+}
+
+.bgWhite{
+    -fx-background-color: #ffffff;
+}

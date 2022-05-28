@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="PlayerApp.jnlp">
+  <information>
+    <title>PlayerApp</title>
+    <vendor>Marta</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="PlayerApp.jar" size="50150" download="eager" />
+    <jar href="lib\ClassLibrary.jar" size="133831" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="PlayerApp" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="mk.bg.PlayerApp"  name="PlayerApp" />
+  <update check="always"/>
+</jnlp>

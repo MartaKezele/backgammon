@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" styleClass="bgGreen" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mk.bg.controllers.PlayerAppController">
+    <children>
+        <TabPane fx:id="tabPane" layoutX="86.0" layoutY="79.0" prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <tabs>
+                <Tab fx:id="tabProfile" closable="false" text="%profile">
+                    <content>
+                        <fx:include fx:id="profile" prefHeight="425.0" prefWidth="700.0" source="Profile.fxml" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabPlayers" closable="false" text="%players">
+                    <content>
+                        <fx:include fx:id="players" prefHeight="425.0" prefWidth="700.0" source="Players.fxml" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabGame" closable="false" text="%game">
+                    <content>
+                        <fx:include fx:id="game" prefHeight="425.0" prefWidth="700.0" source="Game.fxml" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabChat" closable="false" disable="true" text="%chat">
+                    <content>
+                        <fx:include fx:id="chat" prefHeight="425.0" prefWidth="700.0" source="Chat.fxml" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabDocumentation" closable="false" disable="false" text="%documentation">
+                    <content>
+                        <fx:include fx:id="documentation" prefHeight="425.0" prefWidth="700.0" source="Documentation.fxml" />
+                    </content>
+                </Tab>
+            </tabs>
+        </TabPane>
+    </children>
+    <stylesheets>
+        <URL value="@../styles/backgroundsAndFill.css" />
+        <URL value="@../styles/bordersAndStrokes.css" />
+        <URL value="@../styles/fontAndText.css" />
+        <URL value="@../styles/spacing.css" />
+    </stylesheets>
+</AnchorPane>

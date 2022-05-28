@@ -1,0 +1,16 @@
+/* 
+    Created on : Dec 29, 2021, 8:49:16 PM
+    Author     : Marta
+*/
+
+.spacing10{
+    -fx-spacing: 10;
+}
+
+.padding10{
+    -fx-padding: 10;
+}
+
+.paddingSides15{
+    -fx-label-padding: 0 15 0 15;
+}
